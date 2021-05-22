@@ -1,4 +1,6 @@
-# Hailstone
+# Calculators
+
+### Hailstone
 ---
 calculates Hailstone sequence for a user-inputed number
 re: Hofstadter's book 'Gödel, Escher, Bach
