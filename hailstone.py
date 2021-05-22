@@ -1,7 +1,5 @@
 """
 Asks for user input and calculates the cascading hailstone sequence re: Hofstadter
-version 0.001
-2021 @cheynolds
 """
 
 steps = 0
