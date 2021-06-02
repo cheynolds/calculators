@@ -1,0 +1,8 @@
+#CodeInPlace-Square Roots with Floats
+
+def calculate_square(input_number):
+#calculates the square of input_number, prints as a float and returns the value
+    square = 0.0
+    square = number ** 2
+    print(float(number),'squared is',float(square))
+    return square
